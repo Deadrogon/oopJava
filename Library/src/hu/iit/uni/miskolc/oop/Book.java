@@ -7,6 +7,9 @@ public class Book {
 	private int releaseYear;
 	private int price;
 	
+	public Book(String title2, String author2, int releaseYear2, double price2) {
+		// TODO Auto-generated constructor stub
+	}
 	public String getTitle() {
 		return title;
 	}
